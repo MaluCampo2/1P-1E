@@ -1,4 +1,11 @@
 body{
-    background-color: rgb(215, 186, 241);
+    background-color: rgb(224, 134, 187);
     color: rgb(102, 91, 255);
+}
+header{
+    background-color: black;
+    color: aliceblue;
+}
+a{
+    color: aliceblue;
 }
